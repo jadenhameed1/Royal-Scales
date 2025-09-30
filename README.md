@@ -87,7 +87,7 @@ git init
 git add .
 git commit -m "first app"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/my-first-app.git
+git remote add origin [https://vercel.com/jaden-hameeds-projects/royal-scales/FNPMTVqeGMoB7PXrfoiFCrNWCDam](https://vercel.com/jaden-hameeds-projects/royal-scales/FNPMTVqeGMoB7PXrfoiFCrNWCDam)
 git push -u origin main
 
 cd my-first-app
@@ -96,7 +96,7 @@ git init
 git add .                            
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/my-first-app.git
+git remote add origin https://vercel.com/jaden-hameeds-projects/royal-scales/FNPMTVqeGMoB7PXrfoiFCrNWCDam
 git push -u origin main
 npm run dev
 git add .
