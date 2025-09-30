@@ -190,5 +190,5 @@ export default function Component() {
 
   return <div>Access Token: {accessToken}</div>
 }
-NEXTAUTH_URL=https://royal-scales.vercel.app/
+NEXTAUTH_URL=[https://royal-scales.vercel.app/](https://vercel.com/jaden-hameeds-projects/royal-scales/FNPMTVqeGMoB7PXrfoiFCrNWCDam)
 npm install next-auth
